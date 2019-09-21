@@ -6,7 +6,7 @@ from telebot import apihelper
 import requests
 import cv2 as cv
 
-API_TOKEN = "977146141:AAECBdZgzXroKRLr7TKfRgLveext4bbp-cw"
+API_TOKEN = "TOKEN"
 apihelper.proxy = {'http': 'http://10.10.1.10:3128'}
 
 
